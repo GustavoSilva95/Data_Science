@@ -20,7 +20,7 @@ Formado em Engenharia Elétrica e com Especialização em Engenharia Financeira 
 ## Projetos:
 Veja os meus projetos publicados:
 
-* **Como usar o Histograma para Data Science:** https://bit.l/2L2cMwy
+* **Analisando os Dados do Airbnb para Los Angeles:** https://bit.ly/3CEPK6y
 
 
 ---
