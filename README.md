@@ -7,7 +7,7 @@
 # Gustavo Silva
 <sub>*Engenheiro* especialista em Engenharia Financeira e Data Science</sub>
 
-Com o objetivo de aprimorar meus conhecimentos de Engenharia e de Ciência de Dados, eu combino habilidades analíticas, capacidade de trabalho em equipe e atenção aos detalhes. Buscando aplicar Machine Learning em problemas do mundo real.
+Com o objetivo de aprimorar meus conhecimentos de Engenharia e de Ciência de Dados, venho desenvolvendo projetos combinando habilidades analíticas, e atenção aos detalhes. Buscando aplicar Machine Learning em problemas do mundo real.
 
 Formado em Engenharia Elétrica e com Especialização em Engenharia Financeira pela FIA Business School, desenvolvo projetos de Data Science e Machine Learning para diversas áreas de negócios e Mercado Financeiro.
 
