@@ -15,7 +15,7 @@ Formado em Engenharia Elétrica e com Especialização em Engenharia Financeira 
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/gustavo-vinicius-silva)
-* [Medium](https://medium.com/@gustavo_vinicius_50)
+* [Instagram](https://www.instagram.com/gustavovinisilva/)
 
 ## Projetos:
 Veja os meus projetos publicados:
