@@ -20,7 +20,7 @@ Formado em Engenharia Elétrica e com Especialização em Engenharia Financeira 
 ## Projetos:
 Veja os meus projetos publicados:
 
-* **Analisando os Dados do Airbnb para Los Angeles:** https://bit.ly/3CEPK6y
+* **Analisando os Dados do Airbnb para Los Angeles:** https://bit.ly/3r14eLN
 
 
 ---
