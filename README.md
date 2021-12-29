@@ -22,7 +22,7 @@ Veja os meus projetos publicados:
 
 * **Analisando os Dados do Airbnb para Los Angeles:** https://bit.ly/3r14eLN
 
-
+* **Panorama COVID-19 no Brasil e no Mundo:**https://bit.ly/3HkyXbS
 ---
 
 
