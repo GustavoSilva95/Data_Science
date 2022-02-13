@@ -19,11 +19,11 @@ Aplico meus conhecimentos de Engenharia e de Ciência de Dados, combinando habil
 ## Projetos:
 Veja os meus projetos publicados:
 
-* **Analisando os Dados do Airbnb para Los Angeles:** https://bit.ly/3r14eLN
+* [**Analisando os Dados do Airbnb para Los Angeles**](https://bit.ly/3r14eLN)
 
-* **Panorama COVID-19 no Brasil e no Mundo:** https://bit.ly/3HkyXbS
+* [**Panorama COVID-19 no Brasil e no Mundo**](https://bit.ly/3HkyXbS)
 
-* **Regularização L1 e L2:** https://bit.ly/320tg3G
+* [**Regularização L1 e L2**](https://bit.ly/320tg3G)
 
 * [**Detectando Fraudes em Cartões de Crédito**](https://bit.ly/3HM0Xpx)
 
