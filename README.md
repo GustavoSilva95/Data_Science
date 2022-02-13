@@ -25,6 +25,8 @@ Veja os meus projetos publicados:
 
 * **Regularização L1 e L2:** https://bit.ly/320tg3G
 
+* [**Detectando Fraudes em Cartões de Crédito**](https://bit.ly/3HM0Xpx)
+
 ---
 
 
