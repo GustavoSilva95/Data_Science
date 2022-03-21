@@ -27,6 +27,8 @@ Veja os meus projetos publicados:
 
 * [**Detectando Fraudes em Cartões de Crédito**](https://bit.ly/3HM0Xpx)
 
+* [***Churn Prediction* aplicado a uma Empresa de Telecomunicações**](https://bit.ly/3udgkli)
+
 ---
 
 
