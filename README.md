@@ -5,7 +5,7 @@
 </p>
 
 # Gustavo Silva
-<sub>*Engenheiro* especialista em Engenharia Financeira e Data Science</sub>
+<sub>*Engenheiro* especialista em Engenharia Financeira e Inteligência Artificial</sub>
 
 Formado em Engenharia Elétrica e com Especialização em Engenharia Financeira pela FIA Business School, desenvolvo projetos de Data Science e Machine Learning para diversas áreas de negócios e Mercado Financeiro.
 
