@@ -5,7 +5,7 @@
 </p>
 
 # Gustavo Silva
-<sub>*Engenheiro* especialista em Engenharia Financeira e Data Science</sub>
+<sub>*Engenheiro* especialista em Engenharia Financeira e Inteligência Artificial</sub>
 
 Formado em Engenharia Elétrica e com Especialização em Engenharia Financeira pela FIA Business School, desenvolvo projetos de Data Science e Machine Learning para diversas áreas de negócios e Mercado Financeiro.
 
@@ -26,6 +26,8 @@ Veja os meus projetos publicados:
 * [**Regularização L1 e L2**](https://bit.ly/320tg3G)
 
 * [**Detectando Fraudes em Cartões de Crédito**](https://bit.ly/3HM0Xpx)
+
+* [***Churn Prediction* aplicado a uma Empresa de Telecomunicações**](https://bit.ly/3udgkli)
 
 ---
 
