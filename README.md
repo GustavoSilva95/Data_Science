@@ -29,7 +29,7 @@ Veja os meus projetos publicados:
 
 * [***Churn Prediction* aplicado a uma Empresa de Telecomunicações**](https://bit.ly/3udgkli)
 
-* [***Web app - Calculadora de Análise de Probabilidade para Ações**](https://github.com/GustavoSilva95/App_Analise_Probabilidade)
+* [**Web app - Calculadora de Análise de Probabilidade para Ações**](https://github.com/GustavoSilva95/App_Analise_Probabilidade)
 
 ---
 
