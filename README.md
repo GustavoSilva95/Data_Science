@@ -11,7 +11,7 @@ Formado em Engenharia Elétrica e com Especialização em Engenharia Financeira 
 
 Aplico meus conhecimentos de Engenharia e de Ciência de Dados, combinando habilidades analíticas e atenção aos detalhes, a fim de extrair valor dos dados que possam trazer informações para a tomada de decisões estratégicas.
 
-**Experiência em:** Python, Machine Learning, Engenharia Financeira.
+**Experiência em:** Python, SQL, Machine Learning, Engenharia Financeira.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/gustavo-vinicius-silva)
